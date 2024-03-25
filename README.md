@@ -21,4 +21,6 @@ Sou um indivíduo apaixonado pela tecnologia e determinado a crescer na área de
 
 Minha jornada começou com um profundo interesse em entender como as coisas funcionam por trás das telas e, desde então, tenho mergulhado de cabeça no vasto universo da programação. Mesmo sem experiência formal, tenho explorado ativamente recursos online, cursos e projetos pessoais para aprimorar minhas habilidades e conhecimentos.
 
-Quando não estou programando ou estudando, gosto de viajar (principalmente para praias), andar de skate, surfar e aproveitar um tempo junto com minha familía.
+Recentemente estou focado em fazer bots no telegram que envia sinais de jogos de cassino. Também estou fazendo bots que fazem entradas automáticas e bots de conversação tanto no Whats, Insta e Telegram.
+
+Quando não estou programando ou estudando, gosto de viajar (principalmente para praias), andar de skate, surfar e aproveitar um tempo junto com minha família.
