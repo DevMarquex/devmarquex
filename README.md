@@ -14,3 +14,11 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
 </div><br/>
+
+## Um pouco de mim 
+
+Sou um indivíduo apaixonado pela tecnologia e determinado a crescer na área de programação. Embora eu seja novo nesse campo profissional, trago comigo uma sede insaciável de aprendizado e uma dedicação inabalável.
+
+Minha jornada começou com um profundo interesse em entender como as coisas funcionam por trás das telas e, desde então, tenho mergulhado de cabeça no vasto universo da programação. Mesmo sem experiência formal, tenho explorado ativamente recursos online, cursos e projetos pessoais para aprimorar minhas habilidades e conhecimentos.
+
+Quando não estou programando ou estudando, gosto de viajar (principalmente para praias), andar de skate, surfar e aproveitar um tempo junto com minha familía.
